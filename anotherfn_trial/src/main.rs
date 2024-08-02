@@ -1,13 +1,13 @@
 //adding simple numbers
-/*fn main() {
+fn main() {
     let x=5;
     let y=7;
     let sum = x+y;
     println! ( " sum of {} and {} is {}" ,x,y,sum);
 
 }
-*/
-/*struct user{ 
+
+struct user{ 
  name:string,
     email:string,
     age:u32,
@@ -37,12 +37,12 @@
         
            println!( " {:?}", user1);
         }
-        */0
+        
 
 
 // match
 
-/*enum Trafficlight{
+enum Trafficlight{
     Red ,
     Green,
     Amber,
@@ -75,7 +75,7 @@ Trafficlight::Purple=> println!(" go/stop!"),
 // while , continues to to loop as long as the condition is true
 //for , just iterate ( don't quite understand it)*
 
-/*fn main(){
+fn main(){
 
 
     let mut count =0;
@@ -88,7 +88,7 @@ Trafficlight::Purple=> println!(" go/stop!"),
     }
 }
     
-*/
+
 // Define a function that takes two parameters, `a` and `b`
 
 fn main() {
